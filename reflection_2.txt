@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+-> .git folder is created. It is necessary to initialize a repository because it stores the history versions.
