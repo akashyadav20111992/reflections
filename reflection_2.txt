@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 -> .git folder is created. It is necessary to initialize a repository because it stores the history versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-> staging area is an intermediate stage. I don't know.
